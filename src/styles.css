@@ -5,5 +5,11 @@
   padding: 0;
   box-sizing: border-box;
 
+  color: #FFFFFF;
   background-color: #111111;
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
 }
