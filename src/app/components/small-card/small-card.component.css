@@ -1,5 +1,5 @@
 .container__small-card {
-  width: 900px;
+  width: 650px;
   margin-bottom: 15px;
 }
 
@@ -9,8 +9,8 @@
 }
 
 .small-card__picture img {
-  width: 280px;
-  min-width: 250px;
+  width: 230px;
+  min-width: 220px;
 
   margin-right: 18px;
 }
@@ -19,6 +19,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.small-card__title {
+  font-size: 11px;
 }
 
 .container__small-card__line hr{
