@@ -1,6 +1,6 @@
 .container__small-card {
-  width: 650px;
-  margin-bottom: 15px;
+  width: 550px;
+  margin-bottom: 23px;
 }
 
 .container__small-card a {
@@ -22,7 +22,7 @@
 }
 
 .small-card__title {
-  font-size: 11px;
+  font-size: 8px;
 }
 
 .container__small-card__line hr{

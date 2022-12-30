@@ -1,0 +1,31 @@
+.container__footer hr {
+  display: flex;
+  flex-direction: row;
+
+  border: .1px solid #1d1d1d;
+}
+
+.container__footer .footer__social{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.footer__social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+
+  margin: 25px 3px 0 0;
+  border: 1px solid #FFFFFF;
+  border-radius: 30px;
+}
+
+
+.container__footer p{
+  text-align: center;
+  padding-bottom: 35px;
+}
