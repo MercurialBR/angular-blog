@@ -1,5 +1,7 @@
 # AngularBlog
 
+![blog1](https://user-images.githubusercontent.com/63432907/210195112-9717e321-f1e1-4c67-9831-61d19aa602da.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
 ## Development server
