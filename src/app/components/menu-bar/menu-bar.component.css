@@ -18,3 +18,14 @@
 .container__menu-bar img {
   width: 175px;
 }
+
+
+@media screen and (min-width: 350px) and (max-width: 467px) {
+  .container__menu-bar {
+    display: flex;
+    flex-direction: column;
+  }
+  .container__menu-bar a {
+    margin-bottom: 1rem;
+  }
+}
