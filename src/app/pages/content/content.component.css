@@ -39,3 +39,33 @@
 .container__content a i{
   margin-top: 25px;
 }
+
+@media screen and (min-width: 350px) and (max-width: 500px) {
+  .container__content {
+    width: 100%;
+  }
+  .content__cover {
+    width: 90%;
+  }
+  .content__cover img {
+    min-width: 0;
+    width: 100%;
+  }
+  .content__title {
+    min-width: 0;
+    width: 90%;
+  }
+  .content__title h1 {
+    font-size: 23px;
+  }
+  .content__description {
+    min-width: 0;
+    width: 90%;
+    text-align: justify;
+  }
+  .content__description p {
+    min-width: 0;
+    width: 100%;
+    font-size: 12px;
+  }
+}
