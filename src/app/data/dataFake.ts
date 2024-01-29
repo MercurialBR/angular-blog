@@ -21,7 +21,7 @@ export const dataFake = [
     "id":"4",
     "title":"Marvel quase produziu game semelhante a Super Smash Bros",
     "description": "A fórmula de Super Smash Bros é copiada por diversas franquias, como todos sabemos, mas a Marvel quase teve uma delas para chamar de sua. O desenvolvedor Luke Muscat, que trabalhou nos estúdios em torno do ano de 2009, afirmou que a empresa discutiu seriamente em fazer um título de luta neste formato com seus super-heróis mais conhecidos. Como teria sido essa empreitada? De acordo com Muscat, quem mudou tudo foi a produtora THQ. A desenvolvedora estava com o projeto quase completado e com a maioria dos elementos funcionando, mas a companhia alertou que desejava um beat em up. Nisso, tiveram de jogar meses de trabalho no lixo e recomeçarem uma grande parte do projeto.",
-    "photoCover":"https://gamerview.uai.com.br/wp-content/uploads/2022/12/Marvel-jogo-super-smash-bros.jpg"
+    "photoCover":"https://ovicio.com.br/wp-content/uploads/2022/12/20221226-marvel-smash-bros-730x365.jpg"
   },
   {
     "id":"5",
